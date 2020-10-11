@@ -1,3 +1,3 @@
 # Cluster-analysis
 Landslide susceptibility assessment using several clustering algorithms, which are mainly implemented using  Sklearn. 
-The specific content of the study has been submitted to the Journal of COOMPUTERS & GEOSCIENCES.
+The specific content of the study has been submitted to the Journal of COMPUTERS & GEOSCIENCES.
